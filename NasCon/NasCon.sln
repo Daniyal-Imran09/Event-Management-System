@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "NasCon", "NasCon\", "{13A1C717-D9D5-4E0B-A08A-75E8F0A8B608}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58843"
+		Debug.AspNetCompiler.PhysicalPath = "NasCon\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58843\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58843"
+		Release.AspNetCompiler.PhysicalPath = "NasCon\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58843\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58843"
+		SlnRelativePath = "NasCon\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13A1C717-D9D5-4E0B-A08A-75E8F0A8B608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A1C717-D9D5-4E0B-A08A-75E8F0A8B608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8E72633-5430-42FA-BC7D-2D472E6C817E}
+	EndGlobalSection
+EndGlobal
